@@ -13,7 +13,9 @@ my_package_project/
 │   └── core.py             # Core Logic (Class definition)
 ├── setup.py                # Setup script
 ├── requirements.txt        # Dependencies
+├── result_image.png        # Result Image
 └── README.md               # Documentation
+
 ```
 
 ## 🚀설치
